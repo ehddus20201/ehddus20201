@@ -1,6 +1,8 @@
 ### Hi yo! 👋:>
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ehddus20201&theme=flag-india&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" width="400" height="190"/></a>
+
+ <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ehddus20201&include_all_commits=true&count_private=true&show_icons=true&theme=flag-india" width="380" height="200"/>
+
 <!--
 **ehddus20201/ehddus20201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
